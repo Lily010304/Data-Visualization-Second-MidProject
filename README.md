@@ -28,4 +28,4 @@ The process involved:
 
 
 ## Project Link 
-(Sales Across Nations)[https://public.tableau.com/views/SalesAcrossNations/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link]
+[Sales Across Nations](https://public.tableau.com/views/SalesAcrossNations/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
