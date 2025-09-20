@@ -17,3 +17,11 @@ The process involved:
 * Designing a dashboard layout that makes insights easy to find.
 
 * Implementing the dashboard using Tableau and validating that it supports intuitive analysis.
+
+## Questions:
+1) Q1.What is the most profitable City in the State of Tennessee?
+2) Q2. What’s the average annual profit for that city across all years in that city?
+3) Q3.What’s the most profitable product category in Iowa?
+4) Q4.What is the most popular product in that category in 2016?
+5) Q5.What was the most profitable month in 2018 overall?
+6) Q6.How widely did monthly profits vary in 2018?
